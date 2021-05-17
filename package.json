@@ -1,0 +1,33 @@
+{
+  "name": "crypto_dashboard",
+  "version": "1.0.0",
+  "description": "A dashboard made with VueJS to monitor crypto currencies values.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cristianblar/crypto_dashboard.git"
+  },
+  "keywords": [
+    "vue",
+    "javascript",
+    "crypto"
+  ],
+  "author": "cristianblar <cristianblar12@icloud.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cristianblar/crypto_dashboard/issues"
+  },
+  "homepage": "https://github.com/cristianblar/crypto_dashboard#readme",
+  "devDependencies": {
+    "eslint": "^7.26.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-import": "^2.23.2",
+    "eslint-plugin-prettier": "^3.4.0",
+    "eslint-plugin-vue": "^7.9.0",
+    "prettier": "^2.3.0"
+  }
+}
